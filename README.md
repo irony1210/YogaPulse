@@ -1,3 +1,5 @@
 # YogaPulse
 
-This is a simple system for yoga centers to help people find yoga teachers and buy yoga classes easily. It helps teachers share their courses and students to browse and buy the classes they want.  The system makes it easy for everyone to connect and manage yoga courses in one place.
+This is a web-based platform designed to connect students with yoga teachers and simplify course management for yoga centers. It supports three types of users — Students, Teachers, and Admins — each with specific roles and access.
+
+This system aims to make learning and teaching yoga more organized, accessible, and efficient for everyone involved.
